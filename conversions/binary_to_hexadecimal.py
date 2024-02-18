@@ -18,6 +18,7 @@ BITS_TO_HEX = {
 }
 
 
+
 def bin_to_hexadecimal(binary_str: str) -> str:
     """
     Converting a binary string into hexadecimal using Grouping Method
